@@ -3,5 +3,5 @@
 
 ### Academic Service
 - Conferences: ISCA Interspeech, ACL, ICML, NeurIPS, AISTAT, ICASSP, EUSIPCO, ICME, ICMR
-- Journals: Nature Communications
+- Journals: IEEE TASLP, IEEE SPL, Nature Communications
 
